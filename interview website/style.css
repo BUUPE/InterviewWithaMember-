@@ -1,0 +1,32 @@
+.title {
+    text-align: center;
+    font-family: Gruppo;
+    font-weight: 1000;
+    font-size: 50px;
+}
+
+.descriptionBelowTitle {
+    margin-right: 150px;
+    font-size: 20px;
+    margin-left: 150px;
+}
+.interviewquestions{
+    font-style:italic;
+    font-size:30px;
+    font-family: "Gruppo";
+    padding-left:15px
+}
+
+.interviewanswers{
+    font-family:"Gruppo";
+    padding-left:100px;
+    padding-right:300px;
+}
+
+.picturewithaunt img{
+    border-radius: 50%;
+    border: 4px solid rgb(219, 117, 223);
+}
+.picturewithaunt{
+
+}
